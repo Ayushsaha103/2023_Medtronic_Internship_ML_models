@@ -5,7 +5,7 @@ The accuracy of these tools ranged from 90-98%, and have informed our team about
 # Gaussian Process Regressor (GPR)
 - Purpose: This model learns to predict an independent variable based off an input vector of data features, and additionally predicts its own uncertainty in its guess.
 - Advantages: This allows for it to easily draw predictive probability distributions for given input vectors, and it can model a limited amount of data with decent accuracy.
-- Disadvantage: Inoptimal for large datasets
+- Disadvantages: Inoptimal for large datasets, and requires 3 hyper-parameters to be manually determined/initialized
 
 - Credits: to Yoon et. al. for the mathematical formulas: https://www.researchgate.net/publication/351269804_Interaction-Aware_Probabilistic_Trajectory_Prediction_of_Cut-In_Vehicles_Using_Gaussian_Process_for_Proactive_Control_of_Autonomous_Vehicles
 
@@ -21,6 +21,14 @@ The accuracy of these tools ranged from 90-98%, and have informed our team about
 
 ### My Random Forest model's prediction results:
 ![image](https://github.com/Ayushsaha103/2023_Medtronic_Internship_ML_models/assets/71895904/3e4914bb-fd6e-4ddf-8db6-c336ddcb1d9d)
+
+### Bayesian Neural Network
+- Purpose: (Same as GPR): This model learns to predict an independent variable based off an input vector of data features, and additionally predicts its own uncertainty in its guess.
+- Advantages: (Same as GPR), add-on: This model works efficiently and quickly for larger datasets
+- Disadvantage: Slower to train than a normal neural network
+
+- Credits: to Oduerr for the tutorial: https://github.com/tensorchiefs/dl_book/blob/master/chapter_05/nb_ch05_01.ipynb
+
 
 
 
