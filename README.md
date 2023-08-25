@@ -12,6 +12,13 @@ The accuracy of these tools ranged from 90-98%, and have informed our team about
 ### My GPR model's prediction results:
 ![image](https://github.com/Ayushsaha103/2023_Medtronic_Internship_ML_models/assets/71895904/2d5badc9-ac70-4693-ab01-498feee87f99)
 
+# Bayesian Neural Network
+- Purpose: (Same as GPR): This model learns to predict an independent variable based off an input vector of data features, and additionally predicts its own uncertainty in its guess.
+- Advantages: (Same as GPR), add-on: This model works efficiently and quickly for larger datasets
+- Disadvantage: Slower to train than a normal neural network
+
+- Credits: to Oduerr for the tutorial: https://github.com/tensorchiefs/dl_book/blob/master/chapter_05/nb_ch05_01.ipynb
+
 # Random Forest Regressor
 ![image](https://github.com/Ayushsaha103/2023_Medtronic_Internship_ML_models/assets/71895904/2165f8d8-af7c-4329-b4fd-d25dcf9c5f00)
 
@@ -22,12 +29,6 @@ The accuracy of these tools ranged from 90-98%, and have informed our team about
 ### My Random Forest model's prediction results:
 ![image](https://github.com/Ayushsaha103/2023_Medtronic_Internship_ML_models/assets/71895904/3e4914bb-fd6e-4ddf-8db6-c336ddcb1d9d)
 
-### Bayesian Neural Network
-- Purpose: (Same as GPR): This model learns to predict an independent variable based off an input vector of data features, and additionally predicts its own uncertainty in its guess.
-- Advantages: (Same as GPR), add-on: This model works efficiently and quickly for larger datasets
-- Disadvantage: Slower to train than a normal neural network
-
-- Credits: to Oduerr for the tutorial: https://github.com/tensorchiefs/dl_book/blob/master/chapter_05/nb_ch05_01.ipynb
 
 
 
