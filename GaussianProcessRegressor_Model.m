@@ -1,3 +1,7 @@
+%% HOW TO RUN THIS PROGRAM:
+% - Download this file
+% - Open this file in Matlab, and press 'Run'
+
 
 %% Variables
 
