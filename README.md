@@ -1,6 +1,6 @@
 # 2023 Medtronic Internship - My Machine Learning Models
-Machine Learning models I implemented (and built from scratch) to model the behavior of their upcoming products in various use conditions
-The accuracy of these tools ranged from 90-98%, and have informed our team about the products' ability to meet product compliance documentation standards.
+Machine Learning models I implemented (and built from scratch) to model the behavior of an upcoming Medtronic product in various use conditions
+The accuracy of these tools ranged from 90-98%. These models have informed our team about the products' ability to meet product compliance standards.
 
 # Gaussian Process Regressor (GPR)
 - Purpose: This model learns to predict an independent variable based off an input vector of data features, and additionally predicts its own uncertainty in its guess.
