@@ -4,7 +4,7 @@ The accuracy of these tools ranged from 90-98%. These models have informed our t
 
 # Gaussian Process Regressor (GPR)
 - Purpose: This model learns to predict an independent variable based off an input vector of data features, and additionally predicts its own uncertainty in its guess.
-- Advantages: This allows for it to easily draw a probability distribution which informs us of an interval of values where the independent variable may lie, corresponding to each given input feature vector. The GPR can model a limited amount of data with decent accuracy.
+- Advantages: In essence, when fed an input data vector, the GPR draws a probability distribution representing a range of values where the independent variable may lie. The GPR can model a limited amount of data with decent accuracy.
 - Disadvantages: The GPR is inoptimal for large datasets, and requires 3 hyper-parameters to be manually determined/initialized
 
 - Credits: to Yoon et. al. for the mathematical formulas: https://www.researchgate.net/publication/351269804_Interaction-Aware_Probabilistic_Trajectory_Prediction_of_Cut-In_Vehicles_Using_Gaussian_Process_for_Proactive_Control_of_Autonomous_Vehicles
