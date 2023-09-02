@@ -13,7 +13,8 @@ The accuracy of these tools ranged from 90-98%. These models have informed our t
 ![image](https://github.com/Ayushsaha103/2023_Medtronic_Internship_ML_models/assets/71895904/2d5badc9-ac70-4693-ab01-498feee87f99)
 
 # Bayesian Neural Network
-![image](https://github.com/Ayushsaha103/2023_Medtronic_Internship_ML_models/assets/71895904/46020402-10d8-4c8e-9937-2bb9cd67c9f6)
+![image](https://github.com/Ayushsaha103/2023_Medtronic_Internship_ML_models/assets/71895904/9adf12b2-b001-412d-89f6-cecf916b5c5e)
+
 
 - Purpose: (Same as GPR): This model learns to predict the value of the independent variable, based off an input vector of data features, and additionally predicts its own uncertainty in its guess.
 - Advantages: (Same as GPR), add-on: This model works more efficiently than a GPR for larger datasets
